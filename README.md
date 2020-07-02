@@ -1,6 +1,6 @@
 # world_time
 
-A new Flutter application.
+A new Flutter world time application dealing with API.
 
 ## Getting Started
 
